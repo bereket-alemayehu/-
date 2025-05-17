@@ -1,4 +1,4 @@
-# ethio_commerce_app
+# ethiopian food menu
 
 A new Flutter project.
 
