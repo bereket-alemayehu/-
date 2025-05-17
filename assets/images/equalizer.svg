@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 18" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+  <!-- First line with circle on the left -->
+  <circle cx="6" cy="6" r="2" fill="black" />
+  <path d="M6 6h10" 
+stroke="red"
+stroke-width="0.7"
+/>
+  
+  <!-- Second line with circle on the right -->
+  <path d="M4 12h10" 
+stroke="red"
+stroke-width="0.7"
+/>
+  <circle cx="14" cy="12" r="2"  fill="black"  />
+</svg>
